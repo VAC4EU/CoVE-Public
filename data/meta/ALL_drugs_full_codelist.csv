@@ -1,0 +1,10 @@
+drug_abbreviation,var_type,atc_code
+DP_ANALGESIC,Covariate,N02
+DP_ANTIBIO,Covariate,J01
+DP_ANTIVIR,Covariate,J05
+DP_CORTICOST,Covariate,H02
+DP_IMMUNOSUPPR,Covariate,L04
+DP_IMMUNOSUPPR,Covariate,H02
+DP_NSAID,Covariate,M01
+DP_PSYCH,Covariate,N05
+DP_STAT,Covariate,C10AA
